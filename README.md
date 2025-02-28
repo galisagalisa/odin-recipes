@@ -1,1 +1,1 @@
-The current project is all about coding a website that shows a few recipes using only HTML.
+The current project is all about coding a website that shows a few recipes using only HTML. An edit had to be done.
